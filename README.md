@@ -29,7 +29,7 @@ Este projeto realiza web scraping dos preços de TVs LED 50 polegadas 4K no site
    email_usuario = 'seu_email@gmail.com'
    email_senha = 'sua_senha_de_app'
 
-3> **Verifique o Destinatário e o Assunto**
+ 3. **Verifique o Destinatário e o Assunto**
    ```bash
    destinatario = 'email_destinatario@gmail.com'
    assunto = 'Preços de TVs LED 50 polegadas 4K'
